@@ -26,6 +26,8 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 
 ![pre-work-demo](https://github.com/WriteCodeRAM/web102_prework/blob/main/web102prework.gif)
+
+### [Prework Link](https://writecoderam.github.io/web102_prework/)
 ## Notes
 
 Describe any challenges encountered while building the app.
