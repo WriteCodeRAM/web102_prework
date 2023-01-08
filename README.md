@@ -32,7 +32,7 @@ Here's a walkthrough of implemented features:
 
 Describe any challenges encountered while building the app.
 
-Throughout the prework I was quite familiar with many of the topics covered, the slight hiccup I had was when asked to use the reduce function instead of the basic for loop, after a while I see the benfeits and the brevity of using reduce. Aside from that I also had difficulty getting liceCAP software to function and capture screen properly to record a GIF.
+I was quite familiar with many of the topics covered, the slight hiccup I had was when asked to use the reduce function instead of the basic for loop, after a while I see the benfeits and the brevity of using reduce.
 
 
 ## License
